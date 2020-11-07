@@ -1,3 +1,3 @@
 # FlaskAppDeployment-Heroku
 
-# APP Link : https://git.heroku.com/salary-prediction-test.git 
+# APP Link : https://salary-prediction-test.herokuapp.com/
